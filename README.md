@@ -34,13 +34,13 @@ To run **Dashboard** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/dashboard.git
+sudo git clone https://github.com/ABDUL-REHMAN345/Dashboard.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/dashboard.git
+git clone https://github.com/ABDUL-REHMAN345/Dashboard.git
 ```
 
 ### Contact
